@@ -1,0 +1,248 @@
+[
+    {
+      "id": 3,
+      "name": "Pierre Hermé",
+      "picture": "https://example.com/chef3.jpg",
+      "experience": 20,
+      "num_recipes": 75,
+      "rating": 4.9,
+      "recipes": [
+        {
+          "name": "Paella",
+          "ingredients": [
+            "1 lb. chicken thighs, boneless and skinless",
+            "1 lb. chorizo sausage",
+            "1 onion, chopped",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "4 cloves garlic, minced",
+            "2 cups arborio rice",
+            "1 can diced tomatoes, drained",
+            "1 tsp. smoked paprika",
+            "1/2 tsp. saffron threads",
+            "4 cups chicken broth",
+            "1 lb. shrimp, peeled and deveined",
+            "Salt and pepper"
+          ],
+          "method": "1. Heat a large paella pan or skillet over medium-high heat. 2. Add chicken and chorizo and cook until browned, about 5 minutes. 3. Add onion, bell peppers, and garlic, and cook until vegetables are softened, about 5 more minutes. 4. Add rice, diced tomatoes, paprika, saffron, and chicken broth. 5. Bring to a simmer, then reduce heat to low and cover. 6. Cook for 20-25 minutes, until rice is tender and most of the liquid has been absorbed. 7. Add shrimp and cook until pink and cooked through, about 5 more minutes. 8. Season with salt and pepper to taste."
+        },
+        {
+          "name": "Tres Leches Cake",
+          "ingredients": [
+            "1 cup all-purpose flour",
+            "1 1/2 tsp. baking powder",
+            "1/4 tsp. salt",
+            "5 eggs, separated",
+            "1 cup sugar, divided",
+            "1/3 cup milk",
+            "1 tsp. vanilla extract",
+            "1 can evaporated milk",
+            "1 can sweetened condensed milk",
+            "1 cup heavy cream"
+          ],
+          "method": "1. Preheat oven to 350°F. 2. In a bowl, whisk together flour, baking powder, and salt. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. In another bowl, beat egg yolks and 3/4 cup sugar until light and fluffy. 5. Gradually add flour mixture to egg yolk mixture, alternating with milk and vanilla extract. 6. Fold in egg whites. 7. Pour batter into a greased 9x13-inch baking dish. 8. Bake for 30-35 minutes, until a toothpick inserted into the center comes out clean. 9. In a bowl, whisk together evaporated milk, sweetened condensed milk, and heavy cream. 10. Pour milk mixture over cake while it's still warm. 11. Let cake cool to room temperature, then chill in the fridge for at least 2 hours before serving."
+        }
+      ]
+    },
+    {
+      "id": 333331,
+      "name": "Alain Ducasse",
+      "picture": "https://example.com/chef1.jpg",
+      "experience": 12,
+      "num_recipes": 50,
+      "rating": 4.8,
+      "recipes": [
+        {
+          "name": "Chicken Alfredo",
+          "ingredients": [
+            "1 pound fettuccine pasta",
+            "2 cups heavy cream",
+            "1/2 cup butter",
+            "1 1/2 cups grated Parmesan cheese",
+            "1/2 teaspoon garlic powder",
+            "2 cups cooked and chopped chicken breast",
+            "Salt and pepper"
+          ],
+          "method": "1. Cook fettuccine pasta according to package instructions. 2. In a saucepan over medium heat, combine heavy cream, butter, Parmesan cheese, and garlic powder. 3. Cook, stirring constantly, until cheese is melted and sauce is smooth. 4. Add cooked chicken to the sauce and stir until heated through. 5. Season with salt and pepper to taste. 6. Serve over cooked fettuccine."
+        },
+        {
+          "name": "Caprese Salad",
+          "ingredients": [
+            "2 large ripe tomatoes, sliced",
+            "8 oz. fresh mozzarella cheese, sliced",
+            "1/4 cup fresh basil leaves",
+            "2 tablespoons balsamic vinegar",
+            "2 tablespoons olive oil",
+            "Salt and pepper"
+          ],
+          "method": "1. Arrange tomato slices and mozzarella slices on a plate. 2. Sprinkle with fresh basil leaves. 3. In a small bowl, whisk together balsamic vinegar and olive oil. 4. Drizzle dressing over the salad. 5. Season with salt and pepper to taste."
+        }
+      ]
+    },
+    {
+     "id": 2222345,
+     "name": "Paul Bocusez",
+     "picture": "https://example.com/chef5.jpg",
+     "experience": 10,
+      "num_recipes": 50,
+      "rating": 4.5,
+       "recipes": [
+      {
+        "name": "Chicken Enchiladas",
+        "ingredients": [
+          "2 cups cooked chicken, shredded",
+          "1 can black beans, rinsed and drained",
+          "1 can diced tomatoes with green chilies, drained",
+          "1 cup shredded cheese",
+          "1/2 cup sour cream",
+          "1/4 cup chopped fresh cilantro",
+          "1 tsp. ground cumin",
+          "1/2 tsp. garlic powder",
+          "Salt and pepper",
+          "8-10 flour tortillas",
+          "1 can enchilada sauce"
+        ],
+        "method": "1. Preheat oven to 375°F. 2. In a bowl, mix together chicken, black beans, diced tomatoes, cheese, sour cream, cilantro, cumin, garlic powder, salt, and pepper. 3. Place a spoonful of the mixture in the center of each tortilla, and roll up tightly. 4. Place rolled tortillas seam-side down in a baking dish. 5. Pour enchilada sauce over the top. 6. Cover with foil and bake for 20-25 minutes. 7. Remove foil and bake for an additional 5-10 minutes, until cheese is melted and bubbly. 8. Serve hot."
+      },
+      {
+        "name": "Tres Leches Cake",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 1/2 tsp. baking powder",
+          "1/4 tsp. salt",
+          "5 eggs, separated",
+          "1 cup sugar, divided",
+          "1/3 cup milk",
+          "1 tsp. vanilla extract",
+          "1 can evaporated milk",
+          "1 can sweetened condensed milk",
+          "1 cup heavy cream"
+        ],
+        "method": "1. Preheat oven to 350°F. 2. In a bowl, whisk together flour, baking powder, and salt. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. In another bowl, beat egg yolks and 3/4 cup sugar until light and fluffy. 5. Gradually add flour mixture to egg yolk mixture, alternating with milk and vanilla extract. 6. Fold in egg whites. 7. Pour batter into a greased 9x13-inch baking dish. 8. Bake for 30-35 minutes, until a toothpick inserted into the center comes out clean. 9. In a bowl, whisk together evaporated milk, sweetened condensed milk, and heavy cream. 10. Pour milk mixture over cake while it's still warm. 11. Let cake cool to room temperature, then chill in the fridge for at least 2 hours before serving."
+      }
+      ]
+    },
+    {
+      "id": 53256722,
+      "name": "Joel Robuch",
+      "picture": "https://example.com/chef1.jpg",
+      "experience": 15,
+      "num_recipes": 70,
+      "recipes": [
+        {
+          "name": "Roasted Salmon",
+          "ingredients": [
+            "1 pound salmon fillet",
+            "1/4 cup olive oil",
+            "1/4 cup soy sauce",
+            "2 tablespoons brown sugar",
+            "1 tablespoon lemon juice",
+            "2 cloves garlic, minced",
+            "1/4 teaspoon black pepper"
+          ],
+          "method": "1. Preheat oven to 400°F. 2. In a small bowl, whisk together olive oil, soy sauce, brown sugar, lemon juice, garlic, and black pepper. 3. Place salmon fillet in a baking dish and pour marinade over it. 4. Bake for 12-15 minutes, until salmon is cooked through and flakes easily with a fork.",
+          "rating": 4.7
+        },
+        {
+          "name": "Beef and Broccoli Stir Fry",
+          "ingredients": [
+            "1 pound flank steak",
+            "1 head of broccoli, chopped",
+            "1 red bell pepper, sliced",
+            "1 yellow onion, sliced",
+            "2 cloves garlic, minced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon cornstarch",
+            "1/4 teaspoon red pepper flakes",
+            "2 tablespoons vegetable oil",
+            "Salt and pepper"
+          ],
+          "method": "1. Slice flank steak against the grain into thin strips. 2. In a small bowl, whisk together soy sauce, cornstarch, and red pepper flakes. 3. Heat vegetable oil in a large skillet over high heat. 4. Add beef and stir fry for 2-3 minutes, until browned. Remove from skillet. 5. Add broccoli, bell pepper, and onion to skillet and stir fry for 2-3 minutes, until vegetables are tender-crisp. 6. Add garlic and stir fry for 30 seconds. 7. Add beef back to skillet and pour in soy sauce mixture. 8. Stir until sauce thickens and coats everything. 9. Season with salt and pepper to taste. Serve over rice.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id": 4156155,
+      "name": "Eric Ripert",
+      "picture": "https://example.com/chef1.jpg",
+      "experience": 10,
+      "num_recipes": 50,
+      "recipes": [
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "1 pound spaghetti",
+            "6 slices of bacon",
+            "4 cloves of garlic",
+            "4 eggs",
+            "1 cup grated parmesan cheese",
+            "1/4 cup chopped fresh parsley",
+            "Salt and pepper"
+          ],
+          "method": "1. Cook spaghetti in a pot of salted boiling water until al dente. 2. While spaghetti is cooking, fry bacon in a large skillet over medium heat until crisp. Remove from skillet and crumble. 3. In the same skillet, sauté garlic until fragrant. 4. In a bowl, whisk together eggs and parmesan cheese. 5. Drain spaghetti and add to skillet with garlic. 6. Remove skillet from heat and quickly stir in egg mixture. 7. Add bacon, parsley, salt, and pepper. Serve immediately.",
+          "rating": 4.5
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "1 pound beef sirloin",
+            "1 onion",
+            "2 cloves of garlic",
+            "8 ounces of mushrooms",
+            "1 tablespoon flour",
+            "1 cup beef broth",
+            "1/2 cup sour cream",
+            "2 tablespoons olive oil",
+            "Salt and pepper"
+          ],
+          "method": "1. Slice beef into thin strips. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add beef and cook until browned on all sides. Remove from skillet. 4. Add onions and garlic to skillet and sauté until softened. 5. Add mushrooms and cook until they release their liquid. 6. Sprinkle flour over vegetables and stir to coat. 7. Gradually add beef broth while stirring constantly. 8. Add beef back to skillet and bring to a simmer. 9. Stir in sour cream and cook until heated through. 10. Season with salt and pepper to taste. Serve over cooked egg noodles.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 214123450,
+      "name": "Sophie Lee",
+      "picture": "https://example.com/chef20.jpg",
+      "experience": 10,
+      "num_recipes": 50,
+      "rating": 4.5,
+      "recipes": [
+      {
+        "name": "Thai Basil Chicken",
+        "ingredients": [
+          "1 lb. boneless, skinless chicken breast, cut into bite-sized pieces",
+          "1/2 onion, chopped",
+          "3 cloves garlic, minced",
+          "1 red bell pepper, chopped",
+          "1 green bell pepper, chopped",
+          "1 cup chopped Thai basil leaves",
+          "1/4 cup soy sauce",
+          "1 tbsp. fish sauce",
+          "1 tbsp. brown sugar",
+          "1/2 tsp. red pepper flakes",
+          "2 tbsp. oil"
+        ],
+        "method": "1. Heat oil in a large skillet or wok over high heat. 2. Add chicken and stir-fry for 2-3 minutes until lightly browned. 3. Add onion, garlic, and bell peppers and stir-fry for an additional 2-3 minutes until vegetables are crisp-tender. 4. In a small bowl, whisk together soy sauce, fish sauce, brown sugar, and red pepper flakes. 5. Add sauce to the skillet and stir-fry for 1-2 minutes until chicken and vegetables are coated and sauce has thickened. 6. Stir in Thai basil leaves and cook for an additional 1-2 minutes until wilted. 7. Serve hot with rice or noodles."
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup white sugar",
+          "2/3 cup milk",
+          "1 1/4 cups heavy cream",
+          "1/2 tsp. vanilla extract",
+          "1 lb. mascarpone cheese",
+          "1/4 cup strong brewed coffee or espresso, cooled",
+          "2 tbsp. rum or brandy",
+          "24 ladyfingers",
+          "Cocoa powder, for dusting"
+        ],
+        "method": "1. In a medium saucepan, whisk together egg yolks and sugar until well blended. 2. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. 3. Remove from heat and let cool completely. 4. In a large bowl, beat cream and vanilla until stiff peaks form. 5. Fold in mascarpone cheese until well combined. 6. In a small bowl, combine coffee or espresso and rum or brandy. 7. Dip each ladyfinger in the coffee mixture, then arrange in a single layer in a 9x13 inch dish. 8. Spread half of the mascarpone mixture over the ladyfingers. 9. Repeat with another layer of ladyfingers and mascarpone mixture. 10. Cover and refrigerate for at least 2 hours or overnight. 11. Before serving, dust the top with cocoa powder."
+      }
+      ]
+    }
+]
+
