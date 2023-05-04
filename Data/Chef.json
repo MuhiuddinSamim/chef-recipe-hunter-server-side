@@ -2,7 +2,7 @@
     {
       "id": 3,
       "name": "Pierre Hermé",
-      "picture": "https://example.com/chef3.jpg",
+      "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.49911206.1673179213&semt=robertav1_2_sidr",
       "experience": 20,
       "num_recipes": 75,
       "rating": 4.9,
@@ -47,7 +47,7 @@
     {
       "id": 333331,
       "name": "Alain Ducasse",
-      "picture": "https://example.com/chef1.jpg",
+      "picture": "https://img.freepik.com/premium-photo/excited-man-chef-cook-wearing-uniform-showing-fresh-green-salad-plate-isolated-white-wall_171337-54267.jpg?size=626&ext=jpg",
       "experience": 12,
       "num_recipes": 50,
       "rating": 4.8,
@@ -82,7 +82,7 @@
     {
      "id": 2222345,
      "name": "Paul Bocusez",
-     "picture": "https://example.com/chef5.jpg",
+     "picture": "https://as2.ftcdn.net/v2/jpg/02/85/51/17/1000_F_285511786_gjrbt9yqLrzEOdGhbYHeIOJirZjA8k7e.jpg",
      "experience": 10,
       "num_recipes": 50,
       "rating": 4.5,
@@ -125,7 +125,7 @@
     {
       "id": 53256722,
       "name": "Joel Robuch",
-      "picture": "https://example.com/chef1.jpg",
+      "picture": "https://as2.ftcdn.net/v2/jpg/01/73/55/51/1000_F_173555181_sNKTBa5m3iL0wIq53v3n2jWBcYC8UFfD.jpg",
       "experience": 15,
       "num_recipes": 70,
       "recipes": [
@@ -165,7 +165,7 @@
     {
       "id": 4156155,
       "name": "Eric Ripert",
-      "picture": "https://example.com/chef1.jpg",
+      "picture": "https://as2.ftcdn.net/v2/jpg/02/23/00/37/1000_F_223003725_Q86VLGaSYXI3mvXxkbfHnbSV0oAuHv7X.jpg",
       "experience": 10,
       "num_recipes": 50,
       "recipes": [
@@ -204,7 +204,7 @@
     {
       "id": 214123450,
       "name": "Sophie Lee",
-      "picture": "https://example.com/chef20.jpg",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=900&t=st=1683178799~exp=1683179399~hmac=2242f0a53268c283841568f8dac8ec1c51b9c50d15f5999d4313c6f928e8e772",
       "experience": 10,
       "num_recipes": 50,
       "rating": 4.5,
