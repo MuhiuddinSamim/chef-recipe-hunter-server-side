@@ -1,6 +1,6 @@
 [
     {
-      "id": 32345,
+      "id": "32345",
       "name": "Pierre Hermé",
       "chefDetails": " Born in Orthez, France in 1956, Alain Ducasse is a renowned French chef and restaurateur. He has been awarded three Michelin stars for his restaurants in Monaco, Paris, and London.",
       "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.49911206.1673179213&semt=robertav1_2_sidr",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "id": 333331,
+      "id": "333331",
       "name": "Alain Ducasse",
       "chefDetails": " born in 1969 in Valence, France. She is the third generation of the Pic family to run the Michelin three-starred restaurant Maison Pic in Valence, which she took over in 1997. Anne-Sophie is the only female chef in France to hold three Michelin stars.",
 
@@ -83,7 +83,7 @@
       ]
     },
     {
-     "id": 2222345,
+     "id": "2222345",
      "name": "Paul Bocusez",
       "chefDetails": "a French chef and restaurateur who was born in Poitiers, France in 1945. He was known for his innovative cuisine and his restaurants have been awarded a total of 31 Michelin stars, the most of any chef in the world.",
 
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "id": 53256722,
+      "id": "53256722",
       "name": "Joel Robuch",
       "chefDetails": "Born in Apinac, France in 1950, Pierre Gagnaire is a Michelin-starred chef and restaurateur. His flagship restaurant, Pierre Gagnaire, is located in Paris and has been awarded three Michelin stars.",
 
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "id": 4156155,
+      "id": "4156155",
       "name": "Eric Ripert",
       "chefDetails": " born in Nevers, France in 1953 and is a Michelin-starred chef and restaurateur. His eponymous restaurant in Paris has been awarded three Michelin stars and is consistently ranked among the best restaurants in the world.",
 
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "id": 214123450,
+      "id": "214123450",
       "name": "Sophie Lee",
       "chefDetails": "born in Antibes, France in 1965 and is a Michelin-starred chef and television personality. He is the chef and co-owner of Le Bernardin, a seafood restaurant in New York City that has been awarded three Michelin stars.",
 

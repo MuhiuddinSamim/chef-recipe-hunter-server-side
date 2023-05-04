@@ -14,6 +14,13 @@ app.get('/chef', (req, res) => {
   res.send(chef)
 })
 
+app.get('/chef/:id', (req, res) => {
+  const id=parseInt(req.params.id);
+  console.log(id);
+  const viewRecipes=chef.find(n=>parseInt(n.id) === id );
+  res.send(viewRecipes);
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
